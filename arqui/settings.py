@@ -143,7 +143,7 @@ if not DEBUG:
             'NAME' : 'd297i0vqm0flm9',
             'USER': 'vejrvfkhmfrkqw',
             'PASSWORD': 'c8ad84b318282ca96c678b5bbc4c2771fe549f338376d0933f8ee94d8f5228a2',
-            'HOST': 'ec2-54-221-198-156.compute-1.amazonaws.com:5432/d297i0vqm0flm9',
+            'HOST': 'ec2-54-221-198-156.compute-1.amazonaws.com',
             'PORT': '5432'
         }
     } 
